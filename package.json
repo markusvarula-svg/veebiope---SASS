@@ -1,0 +1,24 @@
+{
+  "name": "veebiope---sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markusvarula-svg/veebiope---SASS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/markusvarula-svg/veebiope---SASS/issues"
+  },
+  "homepage": "https://github.com/markusvarula-svg/veebiope---SASS#readme",
+  "devDependencies": {
+    "sass": "^1.100.0"
+  }
+}
